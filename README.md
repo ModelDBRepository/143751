@@ -16,7 +16,7 @@ that makes the inputs separately as well as a Brian file
 (and a screenshot of the figure it produces) that runs the network  
 simulation:
 
---
+---
 
 20120307 line 71 in inhib_plasticity.m had round() added to it - T Vogels.
 
